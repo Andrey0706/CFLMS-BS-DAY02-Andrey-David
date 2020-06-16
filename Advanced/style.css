@@ -1,0 +1,15 @@
+.ActorContainer {
+  width: 100%;
+  background-color: lightgray;
+  display: flex;
+  flex-direction: column; }
+  .ActorContainer .actorName {
+    font-size: 4vw; }
+  .ActorContainer .actorImg {
+    width: 50%; }
+    .ActorContainer .actorImg img {
+      width: 100%; }
+  .ActorContainer .actorDecs {
+    width: 100%; }
+
+/*# sourceMappingURL=style.css.map */
