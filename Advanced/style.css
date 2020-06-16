@@ -4,9 +4,13 @@
   display: flex;
   flex-direction: column; }
   .ActorContainer .actorName {
-    font-size: 4vw; }
+    font-size: 4vw;
+    text-align: center; }
   .ActorContainer .actorImg {
-    width: 50%; }
+    width: 30%;
+    height: 25vw;
+    margin: auto;
+    overflow: hidden; }
     .ActorContainer .actorImg img {
       width: 100%; }
   .ActorContainer .actorDecs {
